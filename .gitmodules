@@ -1,0 +1,6 @@
+[submodule "plugins/redmine_ckeditor"]
+	path = plugins/redmine_ckeditor
+	url = https://github.com/a-ono/redmine_ckeditor.git
+[submodule "plugins/redmine_tags"]
+	path = plugins/redmine_tags
+	url = https://github.com/ixti/redmine_tags.git
