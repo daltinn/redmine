@@ -29,3 +29,33 @@
 [submodule "redmine_issue_dynamic_edit"]
 	path = plugins/redmine_issue_dynamic_edit
 	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
+[submodule "plugins/redmine_category_tree"]
+	path = plugins/redmine_category_tree
+	url = https://github.com/bap14/redmine_category_tree.git
+[submodule "plugins/redmine_issue_dynamic_edit"]
+	path = plugins/redmine_issue_dynamic_edit
+	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
+[submodule "plugins/redmine_issues_tree"]
+	path = plugins/redmine_issues_tree
+	url = git@github.com:daltinn/redmine_issues_tree.git
+[submodule "plugins/redmine_issue_templates"]
+	path = plugins/redmine_issue_templates
+	url = https://github.com/akiko-pusu/redmine_issue_templates.git
+[submodule "plugins/redmine_knowledgebase"]
+	path = plugins/redmine_knowledgebase
+	url = https://github.com/alexbevi/redmine_knowledgebase.git
+[submodule "plugins/redmine_lightbox2"]
+	path = plugins/redmine_lightbox2
+	url = https://github.com/paginagmbh/redmine_lightbox2.git
+[submodule "plugins/sidebar_hide"]
+	path = plugins/sidebar_hide
+	url = https://github.com/bdemirkir/sidebar_hide.git
+[submodule "plugins/redmine_theme_changer"]
+	path = plugins/redmine_theme_changer
+	url = https://github.com/haru/redmine_theme_changer.git
+[submodule "plugins/redmine_trello_card_sync"]
+	path = plugins/redmine_trello_card_sync
+	url = https://github.com/hiroshiyui/redmine_trello_card_sync.git
+[submodule "plugins/vault"]
+	path = plugins/vault
+	url = https://github.com/noshutdown-ru/vault
