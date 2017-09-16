@@ -20,18 +20,12 @@
 [submodule "plugins/recurring_tasks"]
 	path = plugins/recurring_tasks
 	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
-[submodule "plugins/redmine_category_tree"]
-	path = plugins/redmine_category_tree
-	url = https://github.com/bap14/redmine_category_tree.git
 [submodule "plugins/redmine_helpdesk"]
 	path = plugins/redmine_helpdesk
 	url = https://github.com/jfqd/redmine_helpdesk.git
 [submodule "plugins/redmine_issue_dynamic_edit"]
 	path = plugins/redmine_issue_dynamic_edit
 	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
-[submodule "plugins/redmine_category_tree"]
-	path = plugins/redmine_category_tree
-	url = https://github.com/bap14/redmine_category_tree.git
 [submodule "plugins/redmine_issue_dynamic_edit"]
 	path = plugins/redmine_issue_dynamic_edit
 	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
@@ -59,3 +53,6 @@
 [submodule "plugins/vault"]
 	path = plugins/vault
 	url = https://github.com/noshutdown-ru/vault
+[submodule "plugins/redmine_category_tree"]
+	path = plugins/redmine_category_tree
+	url = https://github.com/bap14/redmine_category_tree.git
