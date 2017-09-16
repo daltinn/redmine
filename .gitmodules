@@ -4,3 +4,7 @@
 [submodule "plugins/redmine_tags"]
 	path = plugins/redmine_tags
 	url = https://github.com/ixti/redmine_tags.git
+[submodule "plugins/a_common_libs"]
+	path = plugins/a_common_libs
+	url = https://bitbucket.org/dkuk/a_common_libs.git
+	branch = rm3.4
