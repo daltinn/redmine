@@ -8,3 +8,24 @@
 	path = plugins/a_common_libs
 	url = https://bitbucket.org/dkuk/a_common_libs.git
 	branch = rm3.4
+[submodule "plugins/ajax_counters"]
+	path = plugins/ajax_counters
+	url = https://bitbucket.org/dkuk/ajax_counters.git
+[submodule "plugins/clipboard_image_paste"]
+	path = plugins/clipboard_image_paste
+	url = https://github.com/peclik/clipboard_image_paste.git
+[submodule "plugins/quick_view"]
+	path = plugins/quick_view
+	url = git://git.sourceforge.jp/gitroot/quickedit/quick_view.git
+[submodule "plugins/recurring_tasks"]
+	path = plugins/recurring_tasks
+	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
+[submodule "redmine_category_tree"]
+	path = plugins/redmine_category_tree
+	url = https://github.com/bap14/redmine_category_tree.git
+[submodule "plugins/redmine_helpdesk"]
+	path = plugins/redmine_helpdesk
+	url = https://github.com/jfqd/redmine_helpdesk.git
+[submodule "redmine_issue_dynamic_edit"]
+	path = plugins/redmine_issue_dynamic_edit
+	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
