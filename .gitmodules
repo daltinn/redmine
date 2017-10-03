@@ -47,9 +47,33 @@
 [submodule "plugins/vault"]
 	path = plugins/vault
 	url = https://github.com/noshutdown-ru/vault
-[submodule "plugins/redmine_category_tree"]
-	path = plugins/redmine_category_tree
-	url = https://github.com/bap14/redmine_category_tree.git
 [submodule "plugins/redmine_issue_dynamic_edit"]
 	path = plugins/redmine_issue_dynamic_edit
 	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
+[submodule "plugins/redmine_revision_branches"]
+	path = plugins/redmine_revision_branches
+	url = https://github.com/tleish/redmine_revision_branches.git
+[submodule "plugins/event_notifications"]
+	path = plugins/event_notifications
+	url = https://github.com/jrupesh/event_notifications.git
+[submodule "plugins/redmine_ics_export"]
+	path = plugins/redmine_ics_export
+	url = https://github.com/buschmais/redmics.git
+[submodule "public/themes/PurpleMine2"]
+	path = public/themes/PurpleMine2
+	url = https://github.com/mrliptontea/PurpleMine2.git
+[submodule "public/themes/redmine_alex_skin"]
+	path = public/themes/redmine_alex_skin
+	url = https://bitbucket.org/dkuk/redmine_alex_skin.git
+[submodule "public/themes/flatly_light_redmine"]
+	path = public/themes/flatly_light_redmine
+	url = https://github.com/Nitrino/flatly_light_redmine.git
+[submodule "public/themes/axiom"]
+	path = public/themes/axiom
+	url = https://github.com/hulihanapplications/axiom.git
+[submodule "public/themes/redmine-theme-flat"]
+	path = public/themes/redmine-theme-flat
+	url = https://github.com/tsi/redmine-theme-flat.git
+[submodule "plugins/issue_color_label"]
+	path = plugins/issue_color_label
+	url = https://github.com/bogdananton/Redmine-plugin-issueColorLabel.git
